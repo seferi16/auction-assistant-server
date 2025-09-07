@@ -6,9 +6,9 @@
     "exp_date": null
   },
   "95R7-MEXG-S6OU-EMT6-4": {
-    "status": "active",
+    "status": "trial",
     "app": "Mezat Asistanı",
     "ver": "1.0.4",
-    "exp_date": null
+    "exp_date": "20/09/2025"
   }
 }
