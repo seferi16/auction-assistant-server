@@ -1,4 +1,14 @@
-[
-  "WPGT-KXXI-X6N0-7X16-3": {"status":"active","app":"Mezat Asistanı","ver":"1.0.4", "exp_date":null},
-  "95R7-MEXG-S6OU-EMT6-4": {"status":"trial","app":"Mezat Asistanı","ver":"1.0.4", "exp_date":"20/09/2025"}
-]
+{
+  "WPGT-KXXI-X6N0-7X16-3": {
+    "status": "active",
+    "app": "Mezat Asistanı",
+    "ver": "1.0.4",
+    "exp_date": null
+  },
+  "95R7-MEXG-S6OU-EMT6-4": {
+    "status": "trial",
+    "app": "Mezat Asistanı",
+    "ver": "1.0.4",
+    "exp_date": "20/09/2025"
+  }
+}
